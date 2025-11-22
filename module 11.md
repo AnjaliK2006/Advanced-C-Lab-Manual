@@ -265,7 +265,8 @@ int main() {
 
 Output:
 
-<img width="1665" height="675" alt="image" src="https://github.com/user-attachments/assets/96f6a7f3-9b31-4dbd-959a-9ab7812e53a9" />
+<img width="1231" height="654" alt="image" src="https://github.com/user-attachments/assets/0c26dc31-fb79-493e-b7f8-5b1c0674bbd4" />
+
 
 
 
